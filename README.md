@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dank Gamer Activities Feature</h1>
-  <img src="/public/dankgamer.png" alt="Dank Gamer Logo">
+  <img src="/public/dankgamer.png" alt="Dank Gamer Logo" height="256" width="256">
 </div>
 
 # Setup
@@ -24,5 +24,5 @@ After that , setup the configuration for the bot
 
 After setting it up, run the commands below in the terminal
 
-* npm install
-* node .
+* ```$ npm install ``` <br />
+* ```$ node . ```
