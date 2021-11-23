@@ -1,0 +1,25 @@
+{
+  "name": "dankgamer-activities",
+  "version": "1.0.0",
+  "description": "The source code for dank gamer activites features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dank-Gamer/DankGamer-Activities.git"
+  },
+  "author": "https://github.com/UnusualAbsurd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dank-Gamer/DankGamer-Activities/issues"
+  },
+  "homepage": "https://github.com/Dank-Gamer/DankGamer-Activities#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-together": "^1.3.25",
+    "discord.js": "^13.3.1",
+    "node-fetch": "^2.6.1"
+  }
+}
